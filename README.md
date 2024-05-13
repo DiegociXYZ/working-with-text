@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://alynvelaryon.github.io/working-with-text/)
+[Live Demo Link](https://DiegociXYZ.github.io/working-with-text/)
 
 
 ## Getting Started
